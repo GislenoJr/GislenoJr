@@ -43,7 +43,6 @@ Computer Engineering student focused on embedded systems and currently studying 
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge" height="40"/>
 </p>
 
 ---
