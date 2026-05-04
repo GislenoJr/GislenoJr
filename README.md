@@ -4,7 +4,7 @@ Computer Engineering student focused on embedded systems and currently studying 
 
 ---
 
-## About
+## About me
 
 - Experience with embedded systems and firmware development
 - Focus on C, ESP32, FreeRTOS and Linux
@@ -13,6 +13,20 @@ Computer Engineering student focused on embedded systems and currently studying 
 - Interested in hardware/software integration
 
 ---
+
+## Contact with Me
+
+<p>
+  <a href="https://linkedin.com/in/gislenojunior">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/gislenojr">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:gisleno650@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ## Programming Languages & Frameworks
 
@@ -44,8 +58,8 @@ Computer Engineering student focused on embedded systems and currently studying 
 ## GitHub Stats
 
 <p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gislenojr&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislenojr&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gislenojr&show_icons=true&theme=github_dark&hide_border=true"/>
+ <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gislenojr&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -57,17 +71,3 @@ Computer Engineering student focused on embedded systems and currently studying 
 </p>
 
 ---
-
-## Contact
-
-<p>
-  <a href="https://linkedin.com/in/gislenojunior">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/gislenojr">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:gisleno650@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
