@@ -1,4 +1,8 @@
-# Gisleno Junior
+<p align="center">
+  <img src="https://tenor.com/sc7eapEfxMz.gif" width="220"/>
+</p>
+
+# Hi, I'm Gisleno Junior
 
 Computer Engineering student focused on embedded systems and currently studying full stack development.
 
