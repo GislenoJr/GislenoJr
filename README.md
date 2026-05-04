@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/sc7eapEfxMz.gif" width="220"/>
+  <img src="https://media.tenor.com/3k6YQ2Y9qS4AAAAC/katana-animez-waal.gif" width="220"/>
 </p>
 
 # Hi, I'm Gisleno Junior
