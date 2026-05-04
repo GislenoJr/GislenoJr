@@ -6,18 +6,18 @@ Computer Engineering student focused on embedded systems and currently studying 
 
 ## About
 
-* Experience with embedded systems and firmware development
-* Focus on C, ESP32, FreeRTOS and Linux
-* PCB prototyping using KiCad
-* Currently studying HTML, CSS, JavaScript and PostgreSQL
-* Interested in hardware/software integration
+- Experience with embedded systems and firmware development
+- Focus on C, ESP32, FreeRTOS and Linux
+- PCB prototyping using KiCad
+- Currently studying HTML, CSS, JavaScript, PostgreSQL and Flutter
+- Interested in hardware/software integration
 
 ---
 
 ## Programming Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,postgres,flutter" />
 </p>
 
 ---
@@ -28,7 +28,7 @@ Computer Engineering student focused on embedded systems and currently studying 
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" height="40"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@ Computer Engineering student focused on embedded systems and currently studying 
 ## Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,postgres,flutter" />
 </p>
 
 ---
@@ -67,6 +67,7 @@ Computer Engineering student focused on embedded systems and currently studying 
   <a href="https://github.com/gislenojr">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="mailto:gisleno650@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
-
-Email: [gisleno650@gmail.com](mailto:gisleno650@gmail.com)
